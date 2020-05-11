@@ -34,7 +34,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Teachable Machine Learning'),
+        title: const Text('Queue : Face Recognition'),
       ),
       body: _loading
           ? Container(
